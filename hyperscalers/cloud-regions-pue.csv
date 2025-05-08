@@ -1,0 +1,121 @@
+provider;region-id;location;PUE;WUE;renewable-energy;reference-date;source;additional-info
+aws;fleet;fleet;1.150;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;AMER;AMER;1.150;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;EMEA;EMEA;1.120;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;APAC;APAC;1.270;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;eu-north-1;Europe (Stockholm);1.120;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;me-south-1;Middle East (Bahrain);1.380;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;ap-south-1;Asia-Pacific (Mumbai);1.430;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;ap-southeast-3;Asia-Pacific (Jakarta);1.390;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;us-east-2;U.S. East (Ohio);1.120;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;af-south-1;Africa (Cape Town);1.360;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;eu-west-1;Europe (Ireland);1.10;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;eu-central-1;Europe (Frankfurt);1.320;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;us-east-1;U.S. East (Northern Virginia);1.160;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;ap-northeast-1;Asia-Pacific (Tokyo);1.30;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;us-west-2;U.S. West (Oregon);1.130;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;us-west-1;U.S. West (Northern California);1.170;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;ap-southeast-1;Asia-Pacific (Singapore);1.330;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;ap-southeast-2;Asia-Pacific (Sydney);1.150;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;ca-central-1;Canada (Central);1.260;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+aws;cn-northwest-1;China (Ningxia);1.280;;;2022;https://sustainability.aboutamazon.com/content/dam/sustainability-marketing-site/12-the-cloud/AWS-geography-PUE.csv;
+gcp;us-east1;Berkeley County, South Carolina;1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east5;Central Ohio (Columbus);1.050;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east5;Central Ohio (Lancaster);1.040;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east5;Central Ohio (New Albany);1.050;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;asia-east1;Changhua County, Taiwan;1.10;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-central1;Council Bluffs, Iowa;1.10;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-central1;Council Bluffs, Iowa (2nd facility);1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east4;Douglas County, Georgia;1.080;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;europe-west1;Dublin, Ireland;1.080;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;europe-west4;Eemshaven, Netherlands;1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;europe-north1;Fredericia, Denmark;1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;europe-north1;Hamina, Finland;1.090;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-west4;Henderson, Nevada;1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;asia-northeast1;Inzai, Japan;1.120;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east4;Jackson County, Alabama;1.090;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east1;Lenoir, North Carolina;1.080;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east4;Loudoun County, Virginia;1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east4;Loudoun County, Virginia (2nd facility);1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-central1;Mayes County, Oklahoma;1.090;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-south1;Midlothian, Texas;1.080;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-east4;Montgomery County, Tennessee;1.080;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-central1;Papillion, Nebraska;1.080;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;southamerica-west1;Quilicura, Chile;1.090;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-central1;RLF - New Campus;1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;asia-southeast1;Singapore;1.120;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;asia-southeast1;Singapore (2nd facility);1.140;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;europe-west1;St. Ghislain, Belgium;1.070;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-west4;Storey County, Nevada;1.090;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-west1;The Dalles, Oregon;1.10;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-west1;The Dalles, Oregon (2nd facility);1.060;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;us-central1;UNO - New Campus;1.060;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+gcp;fleet;fleet;1.080;;;Q1 2025;https://datacenters.google/efficiency/;quaterly PUE
+azure;eastus;Virginia;1.140;180;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;eastus2;Virginia;1.140;180;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;centralus;Iowa;1.160;0.10;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;southcentralus;Texas;1.280;240;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;westus;Washington;1.160;0.70;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;westus2;Washington;1.160;0.70;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;westus3;Arizona;1.130;1.520;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;northcentralus;Illinois;1.250;520;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;westeurope;Netherlands;1.140;40;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;northeurope;Ireland;1.180;20;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;swedencentral;Sweden;1.160;50;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;polandcentral;Poland;1.190;440;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;southeastasia;Singapore;1.30;20;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+azure;fleet;fleet;1.180;0.30;;07/2023 - 06/2024;https://datacenters.microsoft.com/sustainability/efficiency/;
+oci;us-ashburn-1;US East (Ashburn);1.340;;93;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-chicago-1;US Midwest (Chicago);1.330;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-phoenix-1;US West (Phoenix);1.370;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-saltlake-1;US West (Salt Lake City);1.340;;65;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-sanjose-1;US West (San Jose);1.240;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ca-montreal-1;Canada Southeast (Montreal);1.460;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ca-toronto-1;Canada Southeast (Toronto);1.350;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-gov-ashburn-1;US Gov East (Ashburn);1.330;;93;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-gov-sterling-1;US Gov East 2 (Sterling);1.350;;93;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-gov-sterling-2;US Gov East 3 (Sterling);1.350;;93;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-gov-fortworth-1;US Gov South (Fort Worth);2.260;;69;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-gov-saltlake-1;US Gov West (Salt Lake City);1.390;;;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-gov-phoenix-1;US Gov West 3 (Phoenix);1.330;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-gov-phoenix-2;US Gov West (Phoenix);1.400;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-dod-ashburn-1;US DoD East (Ashburn);1.420;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-dod-chicago-1;US DoD North (Chicago);1.400;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-dod-phoenix-1;US DoD West (Phoenix);1.400;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;us-dod-saltlake-1;US DoD West (Salt Lake City);1.390;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;sa-saopaulo-1;Brazil East (Sao Paulo);1.600;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;sa-vinhedo-1;Brazil Southeast (Vinhedo);1.740;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;sa-santiago-1;Chile (Santiago);1.470;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;sa-valparaiso-1;Chile West (Valparaiso);1.900;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;sa-bogota-1;Colombia Central (Bogota);1.600;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;mx-queretaro-1;Mexico Central (Queretaro);1.310;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-paris-1;France Central (Paris);1.300;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-marseille-1;France South (Marseille);1.120;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-frankfurt-1;Germany Central (Frankfurt);1.300;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-milan-1;Italy Northwest (Milan);1.320;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-amsterdam-1;Netherlands Northwest (Amsterdam);1.230;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-jovanovac-1;Serbia Central (Jovanovac);1.710;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-madrid-1;Spain Central (Madrid);1.350;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-stockholm-1;Sweden Central (Stockholm);1.480;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;eu-zurich-1;Switzerland North (Zurich);1.320;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;uk-london-1;UK South (London);1.360;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;uk-cardiff-1;UK West (Newport);;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;uk-gov-london-1;UK Gov South (London);1.360;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;uk-gov-cardiff-1;UK Gov West (Newport);;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;il-jerusalem-1;Israel East (Jerusalem);1.800;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;me-jeddah-1;Saudi Arabia West (Jeddah);;;;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;me-riyadh-1;Saudi Arabia Central (Riyadh);;;;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;af-johannesburg-1;South Africa Central (Johannesburg);1.450;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;me-abudhabi-1;UAE (Abu Dhabi);;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;me-dubai-1;UAE East (Dubai);1.540;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-sydney-1;Australia East (Sydney);1.300;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-melbourne-1;Australia Southeast (Melbourne);1.390;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-hyderabad-1;India South (Hyderabad);1.600;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-mumbai-1;India West (Mumbai);1.920;;1;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-osaka-1;Japan Central (Osaka);1.380;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-tokyo-1;Japan East (Tokyo);1.380;;1;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-singapore-1;Singapore (Singapore);1.410;;1;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-singapore-2;Singapore West (Singapore);1.620;;0;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-seoul-1;South Korea Central (Seoul);1.600;;31;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;ap-chuncheon-1;South Korea North (Chuncheon);1.300;;100;2023;https://www.oracle.com/a/ocom/docs/corporate/citizenship/clean-cloud-oci.pdf;
+oci;fleet;fleet;1.45;;;2023;unweighted average pue;
